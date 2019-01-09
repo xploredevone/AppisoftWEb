@@ -1,0 +1,16 @@
+---
+ID: 8140
+post_title: FULLWIDTH SAMPLE
+author: xplore
+post_excerpt: ""
+layout: page
+permalink: >
+  http://appiesoftwebsolutions.com/portfolio-overviews/hover-effects/onhover-titles-fullwidth-sample/
+published: true
+post_date: 2015-02-09 14:13:37
+---
+[vc_row][vc_column width="1/1"][vc_column_text]
+<div class="styled-subtitle">What We Do</div>
+<div class="title-h3">SHOW OFF YOUR PORTFOLIO</div>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto.[/vc_column_text][sc_divider margin_bottom="10"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][sc_portfolio portfolio_layout="100%" portfolio_style="justified" portfolio_fullwidth_columns="4" portfolio_display_titles="hover" portfolio_hover="horizontal-sliding" portfolio_pagination="normal" portfolio_items_per_page="8" portfolio_show_info="1" portfolios="facts-en"][sc_divider margin_bottom="-54"][/vc_column][/vc_row][vc_row][vc_column width="1/4" css=".vc_custom_1422626568236{margin-top: -25px !important;}"][vc_widget_sidebar sidebar_id="page-sidebar"][/vc_column][/vc_row][vc_row][vc_column][sc_fullwidth background_color="#f1f5f8" background_position_horizontal="center" background_position_vertical="top" padding_top="60" padding_bottom="60" padding_left="25" padding_right="25" container="1" background_image="6858"][sc_icon shape="circle" size="big" link_target="_self" centered="1" icon="e732" color="#fda8a9" color_2="#fe7070" background_color="#ffffff" style="angle-90deg"][sc_divider margin_bottom="27"][vc_column_text]<div class="title-h3" style="text-align: center;"><span style="color: #ffffff;">LATEST WORKS FROM OUR PORTFOLIO</span></div>
+<p style="text-align: center;"><span style="color: #ffffff;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel.</span></p>[/vc_column_text][/sc_fullwidth][sc_divider margin_bottom="0" margin_top="-32"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][sc_fullwidth background_position_horizontal="center" background_position_vertical="top" padding_top="10" padding_bottom="20" padding_left="25" padding_right="25" container="1" background_color="#f1f5f8" background_image="7312" background_parallax="1"][sc_portfolio portfolio_layout="100%" portfolio_style="masonry" portfolio_fullwidth_columns="5" portfolio_display_titles="hover" portfolio_hover="zooming-blur" portfolio_pagination="normal" portfolio_items_per_page="48" portfolio_show_info="1" portfolios="about-us-en, sales, consulting" portfolio_disable_socials="1"][/sc_fullwidth][/vc_column][/vc_row]

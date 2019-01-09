@@ -1,0 +1,17 @@
+---
+ID: 3602
+post_title: '100% WIDTH JUSTIFIED'
+author: xplore
+post_excerpt: ""
+layout: page
+permalink: >
+  http://appiesoftwebsolutions.com/justified/
+published: true
+post_date: 2014-11-20 13:40:09
+---
+[vc_row][vc_column width="1/1"][vc_column_text]<div class="styled-subtitle">What We Do</div>
+<div class="title-h3">SHOW OFF YOUR PORTFOLIO</div>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto.[/vc_column_text][sc_divider margin_bottom="10"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][sc_portfolio portfolio_layout="100%" portfolio_style="justified" portfolio_fullwidth_columns="4" portfolio_no_gaps="1" portfolio_display_titles="hover" portfolio_hover="horizontal-sliding" portfolio_pagination="normal" portfolio_items_per_page="8,16,24" portfolio_show_info="1" portfolio_disable_socials="1" portfolios="facts-en"][sc_divider margin_bottom="40"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][sc_alert_box icon_shape="circle" icon_size="big" button_link_target="_self" button_2_link_target="_self" shadow="1" icon_style="angle-90deg" icon_color="#83c5c1" icon_color_2="#52b0ba" icon_background_color="#f1f5f8" button_text="YES, I AGREE" button_background_color="#8fbf75" background_color="#f1f5f8" centered="1" button_2_text="LEAVE ME ALONE" button_2_background_color="#ff7070"][vc_column_text]
+<h3>CENTERED ALERT BOX WITH TITLE AND TWO BUTTONS</h3>
+I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vc_column_text][/sc_alert_box][/vc_column][vc_column][sc_fullwidth background_position_horizontal="center" background_position_vertical="top" padding_top="20" padding_bottom="20" padding_left="0" padding_right="0"][sc_divider style="6" margin_bottom="8" margin_top="48"][/sc_fullwidth][/vc_column][/vc_row][vc_row][vc_column width="1/1"][vc_column_text]<div class="title-h3" style="text-align: center;">SHOW OFF YOUR PORTFOLIO</div>
+<p style="text-align: center;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto.</p>[/vc_column_text][sc_divider margin_bottom="10"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][sc_portfolio portfolio_layout="100%" portfolio_style="justified" portfolio_fullwidth_columns="5" portfolio_display_titles="page" portfolio_hover="zooming-blur" portfolio_pagination="normal" portfolio_items_per_page="15" portfolio_show_info="1" portfolios="advertising, sales, consulting" portfolio_disable_socials="1"][/vc_column][/vc_row]

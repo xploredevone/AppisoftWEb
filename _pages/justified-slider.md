@@ -1,0 +1,25 @@
+---
+ID: 3611
+post_title: JUSTIFIED PORTFOLIO SLIDER
+author: xplore
+post_excerpt: ""
+layout: page
+permalink: >
+  http://appiesoftwebsolutions.com/portfolio-overviews/portfolio-slider/justified-slider/
+published: true
+post_date: 2014-11-20 13:51:35
+---
+[vc_row][vc_column width="1/1"][sc_textbox content_background_position_horizontal="center" content_background_color="#f1f5f8"][sc_icon_with_text icon_shape="circle" icon_size="medium" level="h1" icon="e61a" icon_color="#ffffff" icon_background_color="#ff7070"][vc_column_text]Justified portfolio sliders are great to showcase your works in an awesome dynamic and still compact way. You can activate sharing buttons, choose from 4 different hover styles &amp; select where to show project titles and descriptions - on hover or below the items. You can use portfolio sliders anywhere in content, combining them with any column layouts & other content elements / shortcodes![/vc_column_text][/sc_icon_with_text][/sc_textbox][/vc_column][/vc_row][vc_row][vc_column width="5/6"][vc_column_text]
+<h4>ANY COLUMNS PORTFOLIO SLIDER</h4>
+[/vc_column_text][/vc_column][vc_column width="1/12" css=".vc_custom_1420550119525{padding-right: 0px !important;padding-left: 90px !important;}" el_class="custom-icon-1"][sc_divider margin_top="-5" margin_bottom="7"][sc_icon shape="square" size="medium" link_target="_blank" icon="e619" color="#d2dae1" link="http://codex-themes.com/scalia/portfolios/fullwidth-project/"][/vc_column][vc_column width="1/12" css=".vc_custom_1420464808847{padding-left: 40px !important;}" el_class="custom-icon-2"][sc_divider margin_top="-5" margin_bottom="7"][sc_icon shape="circle" size="medium" link_target="_blank" icon="e621" color="#d2dae1" link="http://codex-themes.com/scalia/portfolios/fullwidth-project/"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][sc_divider margin_bottom="0" color="#dfe4ea" margin_top="-7"][/vc_column][/vc_row][vc_row][vc_column width="1/4"][vc_column_text]
+<div class="styled-subtitle">View Our Latest Projects</div>
+<div class="styled-subtitle"></div>
+I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.[/vc_column_text][sc_button link_target="_self" text="All Projects"][/vc_column][vc_column width="3/4"][sc_portfolio_slider portfolio_layout="3x" portfolio_fullwidth_columns="4" portfolio_display_titles="page" portfolio_hover="default" portfolio_disable_socials="1" effects_enabled="1" portfolio_show_info="1" portfolios="home-index"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][sc_divider margin_bottom="30" color="#dfe4ea" margin_top="0"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][sc_fullwidth background_position_horizontal="center" background_position_vertical="top" padding_top="30" padding_bottom="55" padding_left="25" padding_right="25"][vc_column_text]
+<div class="title-h3" style="text-align: center;">JUSTIFIED SLIDER IN FULLWIDTH AREA</div>
+<p style="text-align: center;">Term sheet convertible note colluding bootstrapping. Engine cross platform responsive design OAuth.</p>
+[/vc_column_text][sc_portfolio_slider portfolio_layout="3x" portfolio_fullwidth_columns="4" portfolio_display_titles="hover" portfolio_hover="vertical-sliding" portfolio_show_info="1" portfolios="sales, consulting, advertising" effects_enabled="1"][/sc_fullwidth][/vc_column][/vc_row][vc_row][vc_column width="1/1"][sc_fullwidth background_color="#f1f5f8" background_position_horizontal="center" background_position_vertical="top" padding_top="90" padding_bottom="90" padding_left="25" padding_right="25" background_image="4661" container="1" background_style="cover"][sc_alert_box icon_shape="square" icon_size="small" button_link_target="_self" button_2_link_target="_self" button_text="PURCHASE SCALIA" button_background_color="#4c5867" image="207"][vc_column_text]
+<div class="styled-subtitle">Is An Awesome Multi-Purpose Theme! Purchase Now And Make Your Clients Happy.</div>
+[/vc_column_text][/sc_alert_box][/sc_fullwidth][sc_divider margin_bottom="-28"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][sc_fullwidth background_position_horizontal="center" background_position_vertical="top" padding_top="90" padding_bottom="109" padding_left="25" padding_right="25" background_color="#f1f5f8"][vc_column_text]
+<div class="title-h3" style="text-align: center;">NO GAPS JUSTIFIED SLIDER</div>
+<p style="text-align: center;">Term sheet convertible note colluding bootstrapping. Engine cross platform responsive design OAuth.</p>
+[/vc_column_text][sc_portfolio_slider portfolio_layout="3x" portfolio_fullwidth_columns="4" portfolio_display_titles="page" portfolio_hover="default" portfolios="home-index" portfolio_no_gaps="1" portfolio_show_info="1" portfolio_disable_socials="1"][/sc_fullwidth][/vc_column][/vc_row]

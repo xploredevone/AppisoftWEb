@@ -1,0 +1,18 @@
+---
+ID: 945
+post_title: TESTIMONIALS
+author: xplore
+post_excerpt: ""
+layout: page
+permalink: >
+  http://appiesoftwebsolutions.com/testimonials/
+published: true
+post_date: 2014-10-03 10:24:52
+---
+[vc_row][vc_column width="1/1"][sc_textbox content_background_position_horizontal="center" content_background_color="#f1f5f8"][sc_icon_with_text icon_shape="circle" icon_size="medium" level="h1" icon="e633" icon_color="#ffffff" icon_background_color="#59abb7" flow="1"][vc_column_text]In Scalia you can use testimonials shortcode to publish your customers opinion about your work or products. You can choose from various styles of testimonials, place it in 100% width areas &amp; enable / disable autoscroll. Scalia delivers also two types of testimonials widgets.[/vc_column_text][/sc_icon_with_text][/sc_textbox][sc_divider margin_bottom="27"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][vc_column_text]
+<h3>TESTIMONIALS IN TEXT</h3>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/1"][sc_divider style="6"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][sc_testimonials set="widget"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][sc_divider style="6"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][vc_column_text]At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat
+
+[/vc_column_text][sc_divider margin_bottom="27"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][sc_fullwidth background_color="#f1f5f8" background_position_horizontal="center" background_position_vertical="top" padding_left="25" padding_right="25" background_image="330" padding_top="50" padding_bottom="20" background_style="cover"][vc_column_text css_animation="top-to-bottom"]
+<h3 style="text-align: center;">FULLWIDTH TESTIMONIALS</h3>
+[/vc_column_text][sc_divider style="1" margin_bottom="-40"][sc_testimonials fullwidth="1" set="widget"][/sc_fullwidth][/vc_column][/vc_row]

@@ -1,0 +1,19 @@
+---
+ID: 1687
+post_title: Shortcode Generator
+author: xplore
+post_excerpt: ""
+layout: page
+permalink: >
+  http://appiesoftwebsolutions.com/shortcodes/shortcode-generator/
+published: true
+post_date: 2014-10-22 09:21:57
+---
+[vc_row][vc_column width="1/1"][sc_textbox title_background_color="#f1f5f8" content_background_position_horizontal="center" content_background_position_vertical="top" content_background_color="#f1f5f8"][sc_divider margin_bottom="-7"][vc_column_text]For those who don't like to use Visual Composer Scalia has a built-in shortcode generator, which enables you to create any shortcodes in just few clicks. No need to remember a special syntax or attribute names![/vc_column_text][/sc_textbox][/vc_column][/vc_row][vc_row][vc_column width="1/1"][sc_divider margin_bottom="2"][vc_column_text]
+<h3>INSERT SHORTCODES IN JUST 3 SIMPLE STEPS</h3>
+[/vc_column_text][sc_divider margin_bottom="0"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][sc_textbox title_background_color="#f1f5f8" content_background_position_horizontal="center" content_background_position_vertical="top" shadow="1" border_color="#d2dae1"][sc_dropcap shape="circle" style="big" letter="1" color="#ffffff" background_color="#fdc670"][vc_column_text]<div class="styled-subtitle"><span style="color: #627080;">Put your mouse cursor at any desired position in content</span></div>[/vc_column_text][sc_divider margin_bottom="-17"][/sc_textbox][sc_textbox title_background_color="#f1f5f8" content_background_position_horizontal="center" content_background_position_vertical="top" shadow="1" border_color="#d2dae1"][sc_dropcap shape="circle" style="big" letter="2" color="#ffffff" background_color="#ff7070"][vc_column_text]<div class="styled-subtitle"><span style="color: #627080;">Choose the shortcode you wish and make your desired settings</span></div>[/vc_column_text][sc_divider margin_bottom="-7"][/sc_textbox][sc_textbox title_background_color="#f1f5f8" content_background_position_horizontal="center" content_background_position_vertical="top" shadow="1" border_color="#d2dae1"][sc_dropcap shape="circle" style="big" letter="3" color="#ffffff" background_color="#e0799e"][vc_column_text]<div class="styled-subtitle"><span style="color: #627080;">Click on “Insert”. Your shortcode will be automatically inserted</span></div>[/vc_column_text][sc_divider margin_bottom="-7"][/sc_textbox][sc_divider margin_bottom="66"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][sc_fullwidth background_color="#f1f5f8" background_position_horizontal="center" background_position_vertical="top" padding_top="20" padding_bottom="20" padding_left="25" padding_right="25" background_image="329" container="1"][sc_divider margin_bottom="47"][sc_alert_box icon_shape="square" icon_size="small" button_link_target="_self" button_2_link_target="_self" image="207" button_2_background_color="#" button_text="PURCHASE SCALIA" button_color="#" button_background_color="#4c5867"][vc_column_text]
+<div class="styled-subtitle">Is An Awesome Multi-Purpose Theme! Purchase Now And Make Your Clients Happy.</div>
+[/vc_column_text][/sc_alert_box][sc_divider margin_bottom="27"][/sc_fullwidth][sc_divider margin_bottom="10"][/vc_column][/vc_row][vc_row][vc_column width="1/1"][sc_fullwidth background_position_horizontal="center" background_position_vertical="top" padding_top="20" padding_bottom="20" padding_left="25" padding_right="25"][vc_column_text]
+<h3 style="text-align: center;">OUR BEST PROJECTS</h3>
+<p style="text-align: center;">Term sheet convertible note colluding bootstrapping. Engine cross platform responsive design OAuth.</p>
+[/vc_column_text][sc_portfolio_slider portfolio_layout="3x" portfolio_display_titles="page" portfolio_hover="default" portfolios="sales, consulting, advertising" portfolio_fullwidth_columns="4"][/sc_fullwidth][/vc_column][/vc_row]

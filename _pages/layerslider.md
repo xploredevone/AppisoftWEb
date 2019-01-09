@@ -1,0 +1,16 @@
+---
+ID: 5264
+post_title: LayerSlider
+author: xplore
+post_excerpt: ""
+layout: page
+permalink: >
+  http://appiesoftwebsolutions.com/galleries/sliders/layerslider/
+published: true
+post_date: 2014-12-30 14:31:34
+---
+[vc_row][vc_column width="1/2"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas id venenatis magna. Sed lacinia elit eget neque vehicula rhoncus. Fusce pharetra eros mi, non congue lectus ultricies sed. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam ut ante vitae mi pharetra eleifend nec accumsan nulla. In sed metus sodales, convallis nibh vel, sollicitudin leo. Suspendisse vel nunc volutpat, blandit eros ac, molestie quam. In non libero sodales, euismod erat non, tincidunt sapien. Duis facilisis neque id ligula sagittis vehicula. Fusce posuere nisi a sapien imperdiet, vel malesuada turpis venenatis. Quisque malesuada sem non cursus accumsan. Vestibulum euismod velit a lectus pretium, non sollicitudin orci iaculis. Fusce at adipiscing felis. Ut accumsan nisi massa, ut porttitor diam faucibus sit amet.[/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas id venenatis magna. Sed lacinia elit eget neque vehicula rhoncus. Fusce pharetra eros mi, non congue lectus ultricies sed. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam ut ante vitae mi pharetra eleifend nec accumsan nulla. In sed metus sodales, convallis nibh vel, sollicitudin leo. Suspendisse vel nunc volutpat, blandit eros ac, molestie quam. In non libero sodales, euismod erat non, tincidunt sapien. Duis facilisis neque id ligula sagittis vehicula. Fusce posuere nisi a sapien imperdiet, vel malesuada turpis venenatis. Quisque malesuada sem non cursus accumsan. Vestibulum euismod velit a lectus pretium, non sollicitudin orci iaculis. Fusce at adipiscing felis. Ut accumsan nisi massa, ut porttitor diam faucibus sit amet.[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/2"][sc_divider margin_bottom="27"][sc_textbox title_background_color="#f1f5f8" content_background_position_horizontal="center" content_background_position_vertical="top" content_background_color="#f1f5f8"][layerslider_vc id="2"][/sc_textbox][/vc_column][vc_column width="1/2"][sc_divider margin_bottom="27"][sc_textbox content_background_position_horizontal="center" content_background_position_vertical="top" shadow="1" border_color="#d2d9df" title_background_color="#f1f5f8"][sc_divider margin_bottom="10"][sc_diagram type="line" effects_enabled="1"][sc_skill title="Usability &amp; Design" amount="89" color="#83DFDA"]
+[sc_skill title="Conceptual Analysis" amount="74" color="#6FA7D6"]
+[sc_skill title="Programming" amount="59" color="#D65772"]
+[sc_skill title="Databases" amount="74" color="#A8DD8B"]
+[sc_skill title="UI Development" amount="95" color="#FF9696"][/sc_diagram][sc_divider margin_bottom="17"][/sc_textbox][/vc_column][/vc_row]
